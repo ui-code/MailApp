@@ -1,3 +1,30 @@
+# MailApp
+#uiinspiration #html #css #uideveloper #mail #email #app #tailwindcss #tailwind #darkmode 
+
+Learn how to convert a UI Design of a Dark Email Inbox to HTML5 and CSS3 using Tailwind CSS. Don't forget to like, share and subscribe if you found the video helpful.
+
+For other videos from this channel:
+https://youtube.com/UICode/videos
+
+https://theuicode.com/
+
+https://instagram.com/theuicode/
+
+https://twitter.com/theuicode
+
+UI Design: https://www.pinterest.com/pin/494903446559830042/
+
+Video walkthrough: https://youtu.be/KX-eTaLhfJg
+
+Tailwind CSS:
+https://tailwindcss.com/docs
+
+Icons:
+https://fontawesome.com/v6.0/icons
+
+Background music by:
+https://www.youtube.com/watch?v=kFK9YpuCAHs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
